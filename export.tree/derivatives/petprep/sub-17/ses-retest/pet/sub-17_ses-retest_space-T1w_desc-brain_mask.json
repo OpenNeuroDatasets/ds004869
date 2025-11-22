@@ -1,7 +1,0 @@
-{
-  "Sources": [
-    "bids:raw:sub-17/ses-retest/pet/sub-17_ses-retest_pet.nii.gz",
-    "bids::sub-17/ses-retest/pet/sub-17_ses-retest_from-orig_to-petref_mode-image_xfm.txt",
-    "bids::sub-17/ses-retest/pet/sub-17_ses-retest_from-petref_to-T1w_mode-image_xfm.txt"
-  ]
-}
