@@ -1,0 +1,7 @@
+{
+  "Sources": [
+    "bids:raw:sub-24/ses-test/pet/sub-24_ses-test_pet.nii.gz",
+    "bids::sub-24/ses-test/pet/sub-24_ses-test_from-orig_to-petref_mode-image_xfm.txt",
+    "bids::sub-24/ses-test/pet/sub-24_ses-test_from-petref_to-T1w_mode-image_xfm.txt"
+  ]
+}

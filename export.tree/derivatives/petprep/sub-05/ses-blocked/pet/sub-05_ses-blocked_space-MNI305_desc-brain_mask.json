@@ -1,0 +1,9 @@
+{
+  "Sources": [
+    "bids:raw:sub-05/ses-blocked/pet/sub-05_ses-blocked_pet.nii.gz",
+    "bids:petprep:sub-05/ses-blocked/pet/sub-05_ses-blocked_from-orig_to-petref_mode-image_xfm.txt",
+    "bids:petprep:sub-05/ses-blocked/pet/sub-05_ses-blocked_from-petref_to-T1w_mode-image_xfm.txt",
+    "bids::sub-05/anat/sub-05_from-T1w_to-MNI305_mode-image_xfm.h5",
+    "bids:templateflow:tpl-MNI305/tpl-MNI305_T1w.nii.gz"
+  ]
+}

@@ -1,0 +1,15 @@
+1.3.0 2025-11-07
+  - Added petprep outputs and removed previous derivatives
+1.2.0 2025-10-30
+  - InjectedRadioactivityUnits kBq -> Bq for all subjects; Blood data for subject 01: corrected values now provided, and sessions are now unique.
+1.1.2
+  - Fixed units for InjectedRadioactivityUnits
+  - Corrected errors with sub-01/ses-blocked/pet metadata
+1.1.1 2024-08-19
+  - added bloodstream derivatives
+1.1.0 2024-08-19
+  - Updated derivatives and fixed ModeOfAdministration differences (now all 'bolus')
+1.0.1 2024-06-10
+  - added petprep_extract_tacs outputs
+1.0.0 2024-04-18
+  - initial upload

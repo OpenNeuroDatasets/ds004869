@@ -1,0 +1,9 @@
+{
+  "Sources": [
+    "bids:raw:sub-20/ses-test/pet/sub-20_ses-test_pet.nii.gz",
+    "bids:petprep:sub-20/ses-test/pet/sub-20_ses-test_from-orig_to-petref_mode-image_xfm.txt",
+    "bids:petprep:sub-20/ses-test/pet/sub-20_ses-test_from-petref_to-T1w_mode-image_xfm.txt",
+    "bids::sub-20/anat/sub-20_from-T1w_to-MNI305_mode-image_xfm.h5",
+    "bids:templateflow:tpl-MNI305/tpl-MNI305_T1w.nii.gz"
+  ]
+}
