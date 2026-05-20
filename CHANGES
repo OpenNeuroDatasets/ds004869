@@ -1,3 +1,5 @@
+1.3.1 2026-05-20
+  - Fix participants weights in participants.tsv, added sessions.tsv files where appropriate.
 1.3.0 2025-11-07
   - Added petprep outputs and removed previous derivatives
 1.2.0 2025-10-30
