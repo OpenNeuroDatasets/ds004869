@@ -1,9 +1,0 @@
-{
-  "Sources": [
-    "bids:raw:sub-21/ses-retest/pet/sub-21_ses-retest_pet.nii.gz",
-    "bids::sub-21/ses-retest/pet/sub-21_ses-retest_from-orig_to-petref_mode-image_xfm.txt",
-    "bids::sub-21/ses-retest/pet/sub-21_ses-retest_from-petref_to-T1w_mode-image_xfm.txt",
-    "bids::sub-21/anat/sub-21_from-T1w_to-MNI152NLin2009cAsym_mode-image_xfm.h5",
-    "bids:templateflow:tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_T1w.nii.gz"
-  ]
-}

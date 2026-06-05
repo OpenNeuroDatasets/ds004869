@@ -1,7 +1,0 @@
-{
-  "Sources": [
-    "bids:raw:sub-03/ses-baseline/pet/sub-03_ses-baseline_pet.nii.gz",
-    "bids::sub-03/ses-baseline/pet/sub-03_ses-baseline_from-orig_to-petref_mode-image_xfm.txt",
-    "bids::sub-03/ses-baseline/pet/sub-03_ses-baseline_from-petref_to-T1w_mode-image_xfm.txt"
-  ]
-}
