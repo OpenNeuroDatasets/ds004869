@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/ZF/Z5/SHA256E-s1503--b215cde8777fb5538102248777cbfc99d7f34d7c990738b3066bd7c735fc9760.auto_noCCseg.label_intensities.txt/SHA256E-s1503--b215cde8777fb5538102248777cbfc99d7f34d7c990738b3066bd7c735fc9760.auto_noCCseg.label_intensities.txt

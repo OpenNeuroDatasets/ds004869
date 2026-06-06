@@ -1,7 +1,0 @@
-{
-  "Sources": [
-    "/out/sub-03/anat/sub-03_hemi-R_midthickness.surf.gii",
-    "/out/sub-03/anat/sub-03_hemi-R_thickness.shape.gii"
-  ],
-  "Type": "ROI"
-}
