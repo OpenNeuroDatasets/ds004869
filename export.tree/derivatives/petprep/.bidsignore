@@ -1,0 +1,10 @@
+*.html
+logs/
+figures/
+*_xfm.*
+*.surf.gii
+*_petref.nii.gz
+*_pet.pet.gii
+*_mixing.tsv
+*_timeseries.tsv
+*_tacs.tsv

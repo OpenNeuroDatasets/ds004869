@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/W6/fJ/SHA256E-s1504--c28160d046c08d82553fd5f3430f7202dfa1214dedbe347c863f8b5902a2b428.auto_noCCseg.label_intensities.txt/SHA256E-s1504--c28160d046c08d82553fd5f3430f7202dfa1214dedbe347c863f8b5902a2b428.auto_noCCseg.label_intensities.txt
