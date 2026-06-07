@@ -19,6 +19,6 @@
     },
     "whole_blood_radioactivity": {
         "Description": "Radioactivity in whole blood samples.",
-        "Units": "Bq/mL"
+        "Units": "kBq/mL"
     }
 }
