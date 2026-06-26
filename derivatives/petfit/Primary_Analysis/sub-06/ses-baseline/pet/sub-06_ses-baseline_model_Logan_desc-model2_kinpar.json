@@ -1,0 +1,7 @@
+[
+  {
+    "Description": "Logan Graphical Analysis using least squares estimation.",
+    "ModelName": "Logan",
+    "AdditionalModelDetails": "vB source: Set to fixed value. Blood delay source: Inherited from delay fit"
+  }
+]
