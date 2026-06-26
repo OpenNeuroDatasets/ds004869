@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/jZ/pM/SHA256E-s1502--382dfd132b4ec1580ece21b046cd7aca0a9f21d9121d5577da7898f4b460d61a.auto_noCCseg.label_intensities.txt/SHA256E-s1502--382dfd132b4ec1580ece21b046cd7aca0a9f21d9121d5577da7898f4b460d61a.auto_noCCseg.label_intensities.txt

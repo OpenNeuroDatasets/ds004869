@@ -1,0 +1,105 @@
+{
+  "modelling_configuration_type": "plasma input",
+  "analysis_folder": "Primary_Analysis",
+  "config_created": "2026-06-08 20:02",
+  "blood_dir": "/data/blood_dir",
+  "Subsetting": {
+    "sub": "",
+    "ses": "",
+    "task": "",
+    "trc": "",
+    "rec": "",
+    "run": "",
+    "Regions": "",
+    "tac_subset": {
+      "type": "time",
+      "start": 0,
+      "end": 90
+    }
+  },
+  "Weights": {
+    "region_type": "external",
+    "region": "",
+    "external_tacs": "petprep: seg-gtm_desc-preproc",
+    "radioisotope": "C11",
+    "halflife": "",
+    "method": "2",
+    "formula": "sqrt(frame_dur * tac_uncor)",
+    "minweight": 0.25
+  },
+  "FitDelay": {
+    "model": "1tcm_median",
+    "time_window": 5,
+    "regions": "",
+    "multiple_regions": "",
+    "vB_value": 0.05,
+    "fit_vB": false,
+    "use_weights": false,
+    "inpshift_lower": -1,
+    "inpshift_upper": 1
+  },
+  "Models": {
+    "Model1": {
+      "type": "2TCM",
+      "K1": {
+        "start": 0.1,
+        "lower": 0.0001,
+        "upper": 0.5
+      },
+      "k2": {
+        "start": 0.1,
+        "lower": 0.0001,
+        "upper": 0.5
+      },
+      "k3": {
+        "start": 0.1,
+        "lower": 0.0001,
+        "upper": 0.5
+      },
+      "k4": {
+        "start": 0.1,
+        "lower": 0.01,
+        "upper": 0.2
+      },
+      "vB": {
+        "start": 0.05,
+        "lower": 0.03,
+        "upper": 0.07,
+        "fit": false
+      },
+      "subset": {
+        "type": "none",
+        "start": null,
+        "end": null
+      },
+      "multstart_iter": 10
+    },
+    "Model2": {
+      "type": "Logan",
+      "tstar": 30,
+      "tstar_type": "time",
+      "vB_source": "set",
+      "vB_value": 0.05,
+      "use_model_weights": false,
+      "subset": {
+        "type": "none",
+        "start": null,
+        "end": null
+      },
+      "multstart_iter": 10
+    },
+    "Model3": {
+      "type": "MA1",
+      "tstar": 30,
+      "tstar_type": "time",
+      "vB_source": "set",
+      "vB_value": 0.05,
+      "subset": {
+        "type": "none",
+        "start": null,
+        "end": null
+      },
+      "multstart_iter": 1
+    }
+  }
+}
