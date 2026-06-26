@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Gf/qV/SHA256E-s1502--fe465c1d329f369843e3c6fd919d81b73e2fa4252bb8f063ef137033e58333fb.auto_noCCseg.label_intensities.txt/SHA256E-s1502--fe465c1d329f369843e3c6fd919d81b73e2fa4252bb8f063ef137033e58333fb.auto_noCCseg.label_intensities.txt

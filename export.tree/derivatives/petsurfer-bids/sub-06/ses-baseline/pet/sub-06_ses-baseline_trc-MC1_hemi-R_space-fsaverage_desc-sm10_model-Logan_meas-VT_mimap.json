@@ -1,8 +1,0 @@
-{
-  "ModelName": "Logan",
-  "SoftwareName": "petsurfer-km",
-  "SoftwareVersion": "0.2.3",
-  "Tstar": 3600.0,
-  "BloodType": "arterial",
-  "Description": "VT parametric map on fsaverage rh surface (smoothed 10mm FWHM)"
-}

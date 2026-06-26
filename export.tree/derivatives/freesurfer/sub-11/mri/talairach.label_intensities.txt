@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Fq/K8/SHA256E-s1502--fe53fd5fec1b636730dc3bb875838a2ec572172064b503f3a6dbddcb2284e6cf.label_intensities.txt/SHA256E-s1502--fe53fd5fec1b636730dc3bb875838a2ec572172064b503f3a6dbddcb2284e6cf.label_intensities.txt

@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/zg/gx/SHA256E-s1503--4dd2ba933777d5ce931391a246f85b99710d6f8b8d3180f0897bc95fa09f7625.auto_noCCseg.label_intensities.txt/SHA256E-s1503--4dd2ba933777d5ce931391a246f85b99710d6f8b8d3180f0897bc95fa09f7625.auto_noCCseg.label_intensities.txt
