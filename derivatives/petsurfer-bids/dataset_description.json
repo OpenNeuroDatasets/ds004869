@@ -1,0 +1,20 @@
+{
+  "Name": "petsurfer-km",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "petsurfer-km",
+      "Version": "0.2.3",
+      "CodeURL": "https://github.com/freesurfer/petsurfer-km"
+    }
+  ],
+  "HowToAcknowledge": "Please cite 1) https://doi.org/10.1016/j.neuroimage.2013.12.021 and 2) https://doi.org/10.1016/j.neuroimage.2016.02.042",
+  "License": "CC0",
+  "SourceDatasets": [
+    {
+      "URL": "https://doi.org/doi:10.18112/openneuro.ds004869.v1.3.0",
+      "DOI": "doi:10.18112/openneuro.ds004869.v1.3.0"
+    }
+  ]
+}
