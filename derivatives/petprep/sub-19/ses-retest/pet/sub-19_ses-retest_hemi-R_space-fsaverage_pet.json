@@ -58,7 +58,7 @@
     5100
   ],
   "InjectedRadioactivity": 779960.0,
-  "InjectedRadioactivityUnits": "Bq",
+  "InjectedRadioactivityUnits": "kBq",
   "Sources": [
     "bids:raw:sub-19/ses-retest/pet/sub-19_ses-retest_pet.nii.gz",
     "bids::sub-19/ses-retest/pet/sub-19_ses-retest_from-orig_to-petref_mode-image_xfm.txt",

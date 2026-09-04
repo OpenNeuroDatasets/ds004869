@@ -185,7 +185,7 @@
   "TracerName": "MC1",
   "TracerRadionuclide": "11C",
   "InjectedRadioactivity": 817700.0,
-  "InjectedRadioactivityUnits": "Bq",
+  "InjectedRadioactivityUnits": "kBq",
   "InjectedMass": 7.635505247945008,
   "InjectedMassUnits": "nmol",
   "SpecificRadioactivity": 107.09179988057407,
