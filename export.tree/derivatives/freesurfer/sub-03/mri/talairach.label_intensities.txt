@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/XP/1J/SHA256E-s1502--0eca4a454d92bec93a690f670de3492913b3ca00de163679474c85fdaad2ac35.label_intensities.txt/SHA256E-s1502--0eca4a454d92bec93a690f670de3492913b3ca00de163679474c85fdaad2ac35.label_intensities.txt

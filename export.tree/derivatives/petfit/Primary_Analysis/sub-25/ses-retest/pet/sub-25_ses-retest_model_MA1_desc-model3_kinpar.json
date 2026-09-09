@@ -1,7 +1,0 @@
-[
-  {
-    "Description": "MA1 model fit using least squares estimation.",
-    "ModelName": "MA1",
-    "AdditionalModelDetails": "vB source: Set to fixed value. Blood delay source: Inherited from delay fit"
-  }
-]
